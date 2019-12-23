@@ -1,0 +1,7 @@
+a=int(input("ведите число"))
+s=int(input("ведите число"))
+d=int(input("ведите число"))
+if(a>10)and(a<50)and(d<50)and(d<50)and(s<50)and(s<50):
+    print("Yes")
+else:
+    print("No")
